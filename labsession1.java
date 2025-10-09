@@ -27,7 +27,7 @@ class book {
     }
 }
 
-public class library
+public class labsession1
 {
     public static void main(String[] args) {
         book book1 = new book("Harry Potter", "J.K. Rowling", "Blooms", "1st", "123456789", "Fantasy", 1997);
@@ -54,4 +54,5 @@ public class library
 
     }
 }
+
 
