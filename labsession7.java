@@ -10,7 +10,6 @@ class Printer {
     }
 }
 
-
 class User implements Runnable {
     private String userName;
     private String document;
