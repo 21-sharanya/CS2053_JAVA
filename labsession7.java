@@ -27,7 +27,7 @@ class User implements Runnable {
     }
 }
 
-public class PrintQueueSimulation {
+public class labsession7 {
     public static void main(String[] args) {
         Printer sharedPrinter = new Printer();
 
